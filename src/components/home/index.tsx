@@ -1,3 +1,9 @@
+/**
+ * - https://github.com/nolimits4web/swiper/issues/3855
+ * - https://github.com/nolimits4web/swiper/issues/3855#issuecomment-829278905
+ * - https://github.com/nolimits4web/swiper/issues/3855#issuecomment-847627094
+ */
+
 import SwiperCore, { Navigation } from "swiper";
 import { Box, Button, Grid, Stack } from "@chakra-ui/react";
 import { Swiper, SwiperSlide } from "swiper/react";
